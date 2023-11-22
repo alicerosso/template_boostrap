@@ -1,0 +1,16 @@
+
+#mainNav {
+background: transparent ;
+}
+
+.btn-primary{
+    background: whitesmoke ;
+    color:black;
+}
+.btn-primary:hover{
+    background:lightgray;
+    color:black;
+}
+#history{
+    background: linear-gradient(to top, lightgray 0% , #e4e7ed 100%);
+}
